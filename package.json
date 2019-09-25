@@ -1,0 +1,24 @@
+{
+  "name": "2-5-name-generator",
+  "version": "1.0.0",
+  "description": "A 2^5 name generator",
+  "main": "ib/index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cuhland/2-5-name-generator.git"
+  },
+  "keywords": [
+    "name",
+    "generate",
+    "generator"
+  ],
+  "author": "Christoph Uhland",
+  "license": "ISC",
+  "dependencies": {
+    "@rstacruz/startup-name-generator": "^0.3.0",
+    "project-name-generator": "^2.1.7"
+  }
+}
